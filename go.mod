@@ -1,4 +1,4 @@
-module github.com/metaliccorp/meta-call
+module github.com/metalicgolib/meta-call
 
 go 1.15
 
